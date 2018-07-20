@@ -7,4 +7,5 @@ JavaScript-Lab
 > Simple calculator JS:
 
 <javaScript>
+
     let a = 5;
