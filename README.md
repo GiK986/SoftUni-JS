@@ -6,6 +6,5 @@ JavaScript-Lab
 
 > Simple calculator JS:
 
-<javaScript>
-
-    let a = 5;
+<javaScript
+let a = 5;
