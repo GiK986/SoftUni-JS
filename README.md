@@ -4,7 +4,4 @@ JavaScript-Lab
 
 ## Calculator
 
-> Simple calculator JS:
-
-<javaScript
-let a = 5;
+> Simple calculator Express-JS:
